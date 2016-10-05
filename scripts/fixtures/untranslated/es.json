@@ -1,0 +1,10 @@
+[
+    {
+        "id": "App.welcome",
+        "defaultMessage": "{gender, select, male{Bienvenido} female{Bienvenida} other{Bienvenidos}} a React"
+    },
+    {
+        "id": "App.getting-started",
+        "defaultMessage": "Para comenzar, edita <code>src/App.js</code> y guarda para recargar."
+    }
+]

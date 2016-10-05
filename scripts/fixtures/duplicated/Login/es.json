@@ -1,0 +1,6 @@
+[
+    {
+        "id": "App.welcome",
+        "defaultMessage": "{gender, select, male{Bienvenido} female{Bienvenida} other{Bienvenidos}} a React"
+    }
+]

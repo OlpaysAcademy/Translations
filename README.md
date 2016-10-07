@@ -12,6 +12,7 @@ Proposed workflow for working with translations in react apps.
 * Create component as you normally would
 * Add react-intl FormattedMessage to every string that needs to be translated
 * Run `node scripts/translations`
+* https://speakerdeck.com/tinganho/complex-translation-workflow-and-formatting
 
 Example Output:
 ```
